@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJsExam", "AngularJsExam\AngularJsExam.csproj", "{B16F312A-2A95-4717-AC6F-9C1814FD9C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16F312A-2A95-4717-AC6F-9C1814FD9C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16F312A-2A95-4717-AC6F-9C1814FD9C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16F312A-2A95-4717-AC6F-9C1814FD9C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16F312A-2A95-4717-AC6F-9C1814FD9C26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35D8CFA9-1226-418D-81FD-2D03B74D0E94}
+	EndGlobalSection
+EndGlobal
